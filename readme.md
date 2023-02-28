@@ -2,5 +2,5 @@
 
 <h1 align="center">Cyberlions</h1>
 
-Cyberlions are a small but growing Robotics Club which 
+<p align="center">Cyberlions are a small but growing Robotics Club</p>
 
