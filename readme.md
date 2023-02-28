@@ -2,6 +2,5 @@
 
 <h1 align="center">Cyberlions</h1>
 
-We are a small but growing robotics club
-we are big sad
+Cyberlions are a small but growing Robotics Club which 
 
