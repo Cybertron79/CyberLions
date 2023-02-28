@@ -2,3 +2,5 @@
 
 ## About Us
 We are a small but growing robotics club
+we are big sad
+
